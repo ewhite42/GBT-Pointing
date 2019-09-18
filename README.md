@@ -8,7 +8,7 @@ The lambdas files and pns files will be saved in the directory /users/ewhite/tpo
 
 You will now need to go through and change the scans range in each of the sessions' pns files as they will be set to incorrect defaults. Find the total number of scans using psum, and enter it into the "scans" field in each pns file. 
 
-Run univPoint on each pns file. 
+Run univPoint on each pns file in the /users/ewhite/tpoint-inputs/xband/ directory. 
 
 Run utpmake (version TBA...)
 
