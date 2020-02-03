@@ -2,6 +2,9 @@
 
 # Most recent version: edited 11/14/17
 
+# Original program written by Frank Ghigo, 
+# additional functionality added later by Ellie White
+
 # FDG: revised Dec 2017 to add "trackpath" to .pns file;
 #	also fix bug in "clam" and allow 8 columns in track map file.
 
